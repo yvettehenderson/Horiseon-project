@@ -215,6 +215,10 @@ p {
     color: #ffffff;
 }
 
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -233,11 +237,6 @@ p {
 }
 
 .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
