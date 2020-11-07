@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* updated to nav vs div */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ header nav {
     font-size: 20px;
 }
 
+/* updated to nav vs div */
 header nav ul {
     list-style-type: none;
 }
 
+/* updated to nav vs div */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* updated to  hero */
 .main {
     width: 75%;
     display: inline-block;
@@ -111,7 +115,7 @@ p {
     font-size: 36px;
 }
 
-
+/* organized to follow html flow */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,10 +124,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* organized to follow html flow */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* organized to follow html flow */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -140,53 +147,64 @@ p {
     background-color: #2589bd;
 }
 
+/* organized to follow html flow */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* organized to follow html flow */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* organized to follow html flow */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* /* organized to follow html flow */ */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* organized to follow html flow */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* organized to follow html flow */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* organized to follow html flow */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* /* organized to follow html flow */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* /* organized to follow html flow */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* added footer */
 footer {
     padding: 30px;
     clear: both;
