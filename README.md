@@ -2,7 +2,7 @@ Below is the requested changes to a client website. We organized and updated.
 
 HTML CHANGES
 
-Updated indentations
+Updated indents
 
 Added descriptive title in header and classes
 
