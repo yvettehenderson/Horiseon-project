@@ -22,10 +22,6 @@ Changed all divs to classes
 Added footer
 
 Reorganized to sequential order
-<<<<<<< HEAD
-
-=======
->>>>>>> f1a001ab42332732f9b9a6e1dddf6079f9e47520
 
 ![Screen Shot 2020-11-05 at 8 12 07 PM](https://user-images.githubusercontent.com/70174557/98331688-ed8c4f00-1fb1-11eb-9f33-04b39632bb84.png)
 
