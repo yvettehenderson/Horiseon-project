@@ -1,26 +1,27 @@
 Below is the requested changes to a client website. We organized and updated.
 
-GIVEN a webpage meets accessibility standards
+HTML CHANGES
 
-WHEN I view the source code
+Updated indents
 
-THEN I find semantic HTML elements
+Added descriptive title in header and classes
 
-WHEN I view the structure of the HTML elements
+Changed all divs to classes/ structure of the HTML elements
 
-THEN I find that the elements follow a logical structure independent of styling and positioning
+Added Nav
 
-WHEN I view the image elements
 
-THEN I find accessible alt attributes
+Added footer
 
-WHEN I view the heading attributes
+CSS CHANGES
 
-THEN they fall in sequential order
+Added proper title
 
-WHEN I view the title element
+Changed all divs to classes
 
-THEN I find a concise, descriptive title
+Added footer
+
+Reorganized to sequential order
 
 ![Screen Shot 2020-11-05 at 8 12 07 PM](https://user-images.githubusercontent.com/70174557/98331688-ed8c4f00-1fb1-11eb-9f33-04b39632bb84.png)
 
